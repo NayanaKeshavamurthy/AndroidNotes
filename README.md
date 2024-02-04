@@ -19,16 +19,16 @@ Android Notes is a simple note-taking app that allows users to create and manage
 
 ### 1. Add a New Note/Edit an Existing Note
 
-1a) Tap the Add button
+1) Tap the Add button
     - Opens the Edit Activity with empty Title and Note Text areas.
 
-1b) Tap on a note to edit
+2) Tap on a note to edit
     - Opens the Edit Activity displaying the selected note's Title and Note Text for editing.
 
-3a) Tap the Save button
+3) Tap the Save button
     - Updates the note in the Main Activity's list or adds a new note.
     
-3b) Tap the Back button
+4) Tap the Back button
     - Displays a confirmation dialog if changes have been made. Saves and exits if confirmed.
 
 ### 2. Delete an Existing Note
