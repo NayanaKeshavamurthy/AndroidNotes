@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidNotes</string>
+    <string name="android_notes">Android Notes</string>
+    <string name="_2023_nayana_k">©2023, Nayana K</string>
+    <string name="version_1_0">Version 1.0</string>
+    <string name="file_name">AndroidNotes.json</string>
+    <string name="no_file">No JSON Product File Present</string>
+</resources>
